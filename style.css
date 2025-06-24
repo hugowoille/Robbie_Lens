@@ -33,25 +33,6 @@ li {
   font-size: 1.1em;
   color: #f9f8ff;
 }
-nav{
-	display:flex;
-	justify-content: space-between;
-	align-items: center;
-}
-nav a{
-	padding-right: 15px;
-}
-#img1{
-	order:1;
-	
-}
-#a1{
-	order:2;
-	margin-left:auto;
-}
-#a2{
-	order:3;
-}
 header,
 footer {
   background-color: white;
@@ -100,6 +81,7 @@ section {
   width: 50%;
   margin: auto;
 }
+<<<<<<< HEAD
 
 #first_section{
 	display:flex;
@@ -129,3 +111,5 @@ section {
 	width:33%;
 }
 
+=======
+>>>>>>> upstream/P3C3-exercice
