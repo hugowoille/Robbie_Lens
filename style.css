@@ -85,25 +85,6 @@ section {
   width: 50%;
   margin: auto;
 }
-<<<<<<< HEAD
-nav{
-	display:flex;
-	justify-content: space-between;
-}
-section{
-	display:flex;
-}
-#titre-para-button{
-	width: 50%;
-}
-#gallery{
-	display:flex;
-	flex-wrap:wrap;
-}
-#gallery img{
-	width:50%;
-}
-=======
 
 footer,
 nav {
@@ -143,4 +124,3 @@ nav a {
   align-items: center;
   margin: auto;
 }
->>>>>>> p3c3-solution
