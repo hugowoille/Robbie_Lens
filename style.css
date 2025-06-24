@@ -82,3 +82,20 @@ section {
   width: 50%;
   margin: auto;
 }
+nav{
+	display:flex;
+	justify-content: space-between;
+}
+section{
+	display:flex;
+}
+#titre-para-button{
+	width: 50%;
+}
+#gallery{
+	display:flex;
+	flex-wrap:wrap;
+}
+#gallery img{
+	width:50%;
+}
