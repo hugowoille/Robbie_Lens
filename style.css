@@ -81,35 +81,3 @@ section {
   width: 50%;
   margin: auto;
 }
-<<<<<<< HEAD
-
-#first_section{
-	display:flex;
-	align-items: center;
-	justify-content: space-around;
-}
-#flex1{
-	display: flex;
-	flex-direction: column;
-	max-width:500px;
-	gap:50px;
-}
-#last_project{
-	background-color: white;
-}
-#last_project h2{
-	color:#1f2039;
-	width:100%;
-	text-align: center;
-	margin-bottom: 50px;
-}
-#flex_gallery{
-	display: flex;
-	flex-wrap: wrap;
-}
-#flex_gallery img{
-	width:33%;
-}
-
-=======
->>>>>>> upstream/P3C3-exercice
